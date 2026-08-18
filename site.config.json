@@ -1,0 +1,26 @@
+{
+  "repo": "wims-berita",
+  "siteName": "Wim Berita",
+  "logoText": "berita",
+  "logoPrefix": "wim",
+  "tagline": "Tagline Wim Berita",
+  "description": "Deskripsi meta Wim Berita.",
+  "ogTitle": "Judul OG<br>untuk Wim Berita",
+  "ogSubtitle": "Subtitle OG singkat dan informatif.",
+  "category": "berita",
+  "categoryLabel": "Berita",
+  "parent": "wims",
+  "children": [],
+  "related": [
+    "wims-bisnis",
+    "wims-olahraga"
+  ],
+  "brand": {
+    "accent": "#ef4444",
+    "accent2": "#dc2626"
+  },
+  "giscus": {
+    "repoId": "REPO_ID",
+    "categoryId": "CATEGORY_ID"
+  }
+}
