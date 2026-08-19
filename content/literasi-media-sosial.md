@@ -3,6 +3,8 @@ title: "Pentingnya Literasi Media Sosial di Era Digital"
 date: "2026-08-18"
 category: "Berita"
 excerpt: "Literasi media sosial membantu kita memilah informasi, menjaga privasi, dan berkomunikasi sehat di platform digital yang terus berkembang."
+meta_title: "Pentingnya Literasi Media Sosial di Era Digital"
+meta_description: "Literasi media sosial membantu memilah fakta dari opini, menjaga privasi, dan berkomunikasi sehat sehingga Anda tidak mudah terpancing narasi provokatif."
 tags: ["media sosial", "literasi digital", "komunikasi", "privasi"]
 ---
 

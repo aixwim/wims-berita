@@ -3,6 +3,8 @@ title: "Menyaring Informasi di Internet agar Tidak Terjebak Hoaks"
 date: "2026-08-18"
 category: "Berita"
 excerpt: "Panduan praktis menyaring informasi di internet agar tidak mudah terjebak hoaks, mulai dari cek sumber, verifikasi, hingga literasi digital."
+meta_title: "Menyaring Informasi di Internet agar Tidak Terjebak Hoaks"
+meta_description: "Saring informasi di internet agar tidak terjebak hoaks: kenali ciri konten mencurigakan, verifikasi sumber, dan bandingkan dengan media terpercaya."
 tags: ["hoaks", "informasi", "literasi digital", "internet"]
 ---
 

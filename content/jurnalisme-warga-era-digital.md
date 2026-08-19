@@ -3,6 +3,8 @@ title: "Jurnalisme Warga di Era Digital"
 date: "2026-08-19"
 category: "Berita"
 excerpt: "Jurnalisme warga memberi siapa saja peran melaporkan peristiwa, namun menuntut kehati-hatian agar informasi yang dibagikan tetap akurat dan bertanggung jawab."
+meta_title: "Jurnalisme Warga di Era Digital"
+meta_description: "Jurnalisme warga memberi siapa pun peran melaporkan peristiwa, namun menuntut verifikasi agar informasi tetap akurat dan bertanggung jawab."
 tags: ["jurnalisme", "media sosial", "komunitas", "berita"]
 ---
 

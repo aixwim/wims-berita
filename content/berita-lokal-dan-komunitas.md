@@ -3,6 +3,8 @@ title: "Peran Berita Lokal dan Komunitas dalam Kehidupan Sehari-hari"
 date: "2026-08-18"
 category: "Berita"
 excerpt: "Berita lokal dan komunitas menghubungkan warga, memperkuat partisipasi, dan menjaga isu lingkungan sekitar tetap terangkat di tengah dominasi berita nasional."
+meta_title: "Peran Berita Lokal dan Komunitas untuk Warga"
+meta_description: "Mengapa berita lokal dan komunitas penting? Simak perannya memperkuat partisipasi warga dan menjaga isu lingkungan tetap terangkat di tengah banjir berita."
 tags: ["berita lokal", "komunitas", "jurnalisme", "media"]
 ---
 

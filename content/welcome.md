@@ -3,6 +3,8 @@ title: "Selamat Datang di Wim Berita"
 date: "2026-08-18"
 category: "Perkenalan"
 excerpt: "Wim Berita — Deskripsi meta Wim Berita."
+meta_title: "Selamat Datang di Wim Berita"
+meta_description: "Selamat datang di Wim Berita, portal berbahasa Indonesia yang membahas berita & informasi terpercaya. Jelajahi artikel terbaik dan temukan informasi"
 tags: ["perkenalan"]
 ---
 

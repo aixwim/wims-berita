@@ -3,6 +3,8 @@ title: "Etika Berbagi Informasi di Era Digital"
 date: "2026-08-19"
 category: "Berita"
 excerpt: "Membagikan informasi adalah tindakan yang harus dilakukan dengan bijak, karena setiap kiriman turut membentuk lingkungan digital dan memengaruhi orang lain."
+meta_title: "Etika Berbagi Informasi di Era Digital"
+meta_description: "Bagikan informasi dengan bijak: verifikasi kebenaran, pertimbangkan dampak, dan pahami konteks sebelum menyebarkan agar ruang digital tetap sehat."
 tags: ["media sosial", "informasi", "komunikasi", "literasi digital"]
 ---
 

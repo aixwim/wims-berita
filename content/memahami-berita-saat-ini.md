@@ -3,6 +3,8 @@ title: "Panduan Memahami Arus Berita Saat Ini"
 date: "2026-08-18"
 category: "Berita"
 excerpt: "Panduan praktis memahami arus berita di tengah banjir informasi, dari mengenali perbedaan fakta dan opini hingga menelusuri konteks berita."
+meta_title: "Panduan Memahami Arus Berita Saat Ini"
+meta_description: "Pahami arus berita dengan jernih: bedakan fakta, opini, dan analisis, telusuri konteks, lalu atur prioritas agar konsumsi berita Anda sehat dan seimbang."
 tags: ["berita", "media", "informasi", "jurnalisme"]
 ---
 

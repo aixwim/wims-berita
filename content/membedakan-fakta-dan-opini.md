@@ -3,6 +3,8 @@ title: "Membedakan Fakta dan Opini dalam Bacaan Sehari-hari"
 date: "2026-08-19"
 category: "Berita"
 excerpt: "Kemampuan membedakan fakta dan opini membantu kita tidak mudah termanipulasi, membuat keputusan lebih baik, dan membaca berita dengan kritis."
+meta_title: "Membedakan Fakta dan Opini dalam Bacaan Sehari-hari"
+meta_description: "Kenali ciri-ciri fakta dan opini agar tidak mudah termanipulasi, membuat keputusan lebih baik, dan membaca berita dengan sikap kritis setiap hari."
 tags: ["berita", "informasi", "literasi digital", "jurnalisme"]
 ---
 

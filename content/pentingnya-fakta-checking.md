@@ -3,6 +3,8 @@ title: "Pentingnya Fakta Checking Sebelum Mempercayai Berita"
 date: "2026-08-19"
 category: "Berita"
 excerpt: "Fakta checking membantu kita memverifikasi kebenaran informasi, mencegah penyebaran hoaks, dan menjaga keputusan yang diambil tetap berdasar data yang akurat."
+meta_title: "Pentingnya Fakta Checking Sebelum Mempercayai Berita"
+meta_description: "Fakta checking membantu memverifikasi kebenaran berita, mencegah penyebaran hoaks, dan memastikan keputusan Anda selalu berdasar data yang akurat."
 tags: ["hoaks", "informasi", "literasi digital", "berita"]
 ---
 

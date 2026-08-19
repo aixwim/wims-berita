@@ -3,6 +3,8 @@ title: "Peran Pers dalam Demokrasi dan Masyarakat"
 date: "2026-08-19"
 category: "Berita"
 excerpt: "Pers menjadi pilar demokrasi yang menyampaikan informasi akurat, mengawasi kekuasaan, dan memberi ruang bagi suara publik untuk didengar."
+meta_title: "Peran Pers dalam Demokrasi dan Masyarakat"
+meta_description: "Pers menjadi pilar demokrasi: mengawasi kekuasaan, menyuarakan aspirasi publik, dan menyajikan informasi akurat agar masyarakat kritis dan terinformasi."
 tags: ["jurnalisme", "media", "berita", "komunitas"]
 ---
 
